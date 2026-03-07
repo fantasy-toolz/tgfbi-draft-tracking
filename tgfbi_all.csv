@@ -244,6 +244,7 @@
 242,17,3,Noah Cameron,KC,243
 243,17,4,Ryan Weathers,NYY,244
 244,17,5,Tyler Stephenson,CIN,245
+245,17,6,Jack Leiter,TEX,246
 0,1,1,Aaron Judge,NYY,1
 1,1,2,Shohei Ohtani,LAD,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -1106,15 +1107,17 @@
 132,9,13,Jakob Marsee,MIA,133
 133,9,14,Jeremy Pena,HOU,134
 134,9,15,Noelvi Marte,CIN,135
-135,10,7,Brandon Woodruff,MLW,136
-136,10,8,Zack Wheeler,PHI,137
-137,10,9,Sandy Alcantara,MIA,138
-138,10,10,Cam Schlittler,NYY,139
-139,10,11,Tatsuya Imai,HOU,140
-140,10,12,Sonny Gray,BOS,141
-141,10,13,Ozzie Albies,ATL,142
-142,10,14,Brandon Nimmo,TEX,143
-143,10,15,Luis Castillo,SEA,144
+135,10,5,Brandon Woodruff,MLW,136
+136,10,6,Zack Wheeler,PHI,137
+137,10,7,Sandy Alcantara,MIA,138
+138,10,8,Cam Schlittler,NYY,139
+139,10,9,Tatsuya Imai,HOU,140
+140,10,10,Sonny Gray,BOS,141
+141,10,11,Ozzie Albies,ATL,142
+142,10,12,Brandon Nimmo,TEX,143
+143,10,13,Luis Castillo,SEA,144
+144,10,14,Trevor Rogers,BAL,145
+145,10,15,Griffin Jax,TB,146
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Bobby Witt Jr.,KC,2
 2,1,3,Ronald Acuna Jr.,ATL,3
@@ -1310,12 +1313,14 @@
 192,13,13,Shane McClanahan,TB,193
 193,13,14,Ian Happ,CHC,194
 194,13,15,Daulton Varsho,TOR,195
-195,14,10,Kris Bubic,KC,196
-196,14,11,Christian Walker,HOU,197
-197,14,12,Dennis Santana,PIT,198
-198,14,13,Caleb Durbin,BOS,199
-199,14,14,Gleyber Torres,DET,200
-200,14,15,Edward Cabrera,CHC,201
+195,14,8,Kris Bubic,KC,196
+196,14,9,Christian Walker,HOU,197
+197,14,10,Dennis Santana,PIT,198
+198,14,11,Caleb Durbin,BOS,199
+199,14,12,Gleyber Torres,DET,200
+200,14,13,Edward Cabrera,CHC,201
+201,14,14,Blake Snell,LAD,202
+202,14,15,Jack Flaherty,DET,203
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -1623,6 +1628,8 @@
 151,11,2,Bubba Chandler,PIT,152
 152,11,3,Brandon Nimmo,TEX,153
 153,11,4,Taylor Ward,BAL,154
+154,11,5,Alejandro Kirk,TOR,155
+155,11,6,Adley Rutschman,BAL,156
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3

@@ -90,8 +90,8 @@ Seiya Suzuki,CHC,91.45,75,103,28,22
 Oneil Cruz,PIT,91.86,73,117,44,22
 Randy Arozarena,SEA,92.59,83,113,30,22
 Salvador Perez,KC,92.91,73,112,39,22
-Nolan McLean,NYM,94.45,72,111,39,22
 Bo Bichette,NYM,94.45,75,117,42,22
+Nolan McLean,NYM,94.45,72,111,39,22
 Will Smith,LAD,95.86,58,118,60,22
 Josh Hader,HOU,96.95,65,135,70,22
 Corey Seager,TEX,97.05,77,119,42,22
@@ -138,16 +138,16 @@ Dansby Swanson,CHC,134.42,107,149,42,19
 Drew Rasmussen,TB,135.15,120,160,40,20
 Brandon Woodruff,MLW,136.0,104,170,66,20
 Cam Schlittler,NYY,136.5,110,155,45,20
-Blake Snell,LAD,137.43,93,186,93,14
 Kyle Stowers,MIA,140.15,114,179,65,20
 Noelvi Marte,CIN,140.89,120,163,43,18
-Adley Rutschman,BAL,143.55,107,187,80,20
+Blake Snell,LAD,141.73,93,202,109,15
+Adley Rutschman,BAL,144.14,107,187,80,21
 Nathan Eovaldi,TEX,144.21,109,173,64,19
 Taylor Ward,BAL,144.26,127,161,34,19
 Brandon Nimmo,TEX,144.57,121,177,56,21
 Konnor Griffin,PIT,145.78,101,172,71,18
 Abner Uribe,MLW,145.81,121,194,73,16
-Griffin Jax,TB,145.94,105,173,68,17
+Griffin Jax,TB,145.94,105,173,68,18
 Dennis Santana,PIT,147.21,117,198,81,14
 Bubba Chandler,PIT,147.53,118,171,53,17
 Trey Yesavage,TOR,148.67,120,189,69,15
@@ -155,11 +155,11 @@ Sandy Alcantara,MIA,149.5,129,165,36,18
 Luis Castillo,SEA,151.0,109,189,80,14
 Ryan Walker,SF,152.12,130,182,52,17
 Matt Chapman,SF,152.73,119,191,72,15
-Trevor Rogers,BAL,153.28,113,185,72,18
+Trevor Rogers,BAL,152.84,113,185,72,19
 Chandler Simpson,TB,156.0,133,177,44,12
 Dylan Crews,WAS,157.88,140,171,31,8
 Alec Burleson,STL,157.92,132,182,50,12
-Alejandro Kirk,TOR,158.31,136,174,38,13
+Alejandro Kirk,TOR,158.07,136,174,38,14
 Ozzie Albies,ATL,158.38,135,196,61,13
 Brenton Doyle,COL,158.53,141,195,54,17
 Gavin Williams,CLE,158.93,134,184,50,15
@@ -175,8 +175,8 @@ Kerry Carpenter,DET,165.0,165,165,0,1
 MacKenzie Gore,TEX,165.27,123,204,81,11
 Jac Caglianone,KC,165.7,148,189,41,10
 Jackson Holliday,BAL,165.7,131,199,68,10
-Sal Stewart,CIN,166.0,139,187,48,10
 Brandon Lowe,PIT,166.0,125,185,60,10
+Sal Stewart,CIN,166.0,139,187,48,10
 Jacob Wilson,ATH,166.09,150,188,38,11
 Francisco Alvarez,NYM,166.42,131,185,54,12
 Ranger Suarez,BOS,167.14,123,206,83,7
@@ -186,8 +186,8 @@ Ian Happ,CHC,170.0,125,197,72,9
 Willson Contreras,BOS,171.2,136,207,71,10
 Robert Suarez,ATL,171.4,145,205,60,5
 Gabriel Moreno,ARZ,171.92,158,189,31,12
-Xavier Edwards,MIA,172.0,150,203,53,10
 Edward Cabrera,CHC,172.0,150,201,51,7
+Xavier Edwards,MIA,172.0,150,203,53,10
 Ivan Herrera,STL,172.89,155,200,45,9
 Bryson Stott,PHI,173.44,149,200,51,9
 Jonathan Aranda,TB,175.0,151,187,36,7
@@ -208,10 +208,10 @@ Seranthony Dominguez,CWS,188.2,173,202,29,5
 Royce Lewis,MIN,188.4,174,201,27,5
 Austin Wells,NYY,189.0,178,204,26,3
 Munetaka Murakami,CWS,189.0,187,191,4,2
-Jack Flaherty,DET,190.33,184,198,14,3
 Shane Baz,BAL,190.8,169,213,44,5
 JJ Wetherholt,STL,191.29,170,209,39,7
 J.T. Realmuto,PHI,192.0,166,220,54,4
+Jack Flaherty,DET,193.5,184,203,19,4
 Shane McClanahan,TB,193.5,171,210,39,4
 Bryan Reynolds,PIT,195.25,186,206,20,4
 Logan O`Hoppe,LAA,197.0,197,197,0,1
@@ -222,8 +222,8 @@ Christian Walker,HOU,200.0,180,222,42,4
 Daulton Varsho,TOR,200.86,183,225,42,7
 Sal Frelick,MLW,201.0,181,213,32,3
 Adolis Garcia,PHI,204.67,187,217,30,3
-Alec Bohm,PHI,205.0,205,205,0,1
 Andrew Abbott,CIN,205.0,195,213,18,3
+Alec Bohm,PHI,205.0,205,205,0,1
 Masyn Winn,STL,207.0,179,235,56,2
 Jung Hoo Lee,SF,208.0,208,208,0,1
 Jordan Westburg,BAL,208.0,208,208,0,1
@@ -253,3 +253,4 @@ Colton Cowser,BAL,242.0,242,242,0,1
 Noah Cameron,KC,243.0,243,243,0,1
 Ryan Weathers,NYY,244.0,244,244,0,1
 Tyler Stephenson,CIN,245.0,245,245,0,1
+Jack Leiter,TEX,246.0,246,246,0,1
