@@ -903,6 +903,7 @@
 181,13,2,Ryan Walker,SF,182
 182,13,3,Gavin Williams,CLE,183
 183,13,4,Daulton Varsho,TOR,184
+184,13,5,Cade Horton,CHC,185
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Bobby Witt Jr.,KC,2
 2,1,3,Juan Soto,NYM,3
@@ -1509,13 +1510,15 @@
 132,9,13,Ryan Pepiot,TB,133
 133,9,14,Gavin Williams,CLE,134
 134,9,15,Michael King,SD,135
-135,10,9,Jacob Misiorowski,MLW,136
-136,10,10,Yandy Diaz,TB,137
-137,10,11,Tyler Glasnow,LAD,138
-138,10,12,Cam Schlittler,NYY,139
-139,10,13,Drew Rasmussen,TB,140
-140,10,14,Trevor Megill,MLW,141
-141,10,15,MacKenzie Gore,TEX,142
+135,10,7,Jacob Misiorowski,MLW,136
+136,10,8,Yandy Diaz,TB,137
+137,10,9,Tyler Glasnow,LAD,138
+138,10,10,Cam Schlittler,NYY,139
+139,10,11,Drew Rasmussen,TB,140
+140,10,12,Trevor Megill,MLW,141
+141,10,13,MacKenzie Gore,TEX,142
+142,10,14,Jakob Marsee,MIA,143
+143,10,15,Nathan Eovaldi,TEX,144
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -2748,6 +2751,7 @@
 157,11,8,Luis Castillo,SEA,158
 158,11,9,Trevor Rogers,BAL,159
 159,11,10,Drew Rasmussen,TB,160
+160,11,11,Francisco Alvarez,NYM,161
 0,1,1,Bobby Witt Jr.,KC,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Shohei Ohtani,LAD,3
