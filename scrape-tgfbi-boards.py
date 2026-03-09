@@ -22,7 +22,7 @@ def scrape_drafts(leagues):
         # league = 810
         driver.get(url.format(league))
         #time.sleep(np.random.randint(low = 20, high = 25, size = 1)[0])
-        time.sleep(np.random.randint(low = 8, high = 12, size = 1)[0])
+        time.sleep(np.random.randint(low = 12, high = 16, size = 1)[0])
         
         html = driver.page_source
         soup = BeautifulSoup(html)
