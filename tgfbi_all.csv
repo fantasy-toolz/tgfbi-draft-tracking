@@ -314,16 +314,19 @@
 312,21,13,Josh Smith,TEX,313
 313,21,14,Dustin May,STL,314
 314,21,15,Bailey Ober,MIN,315
-315,22,6,Josh Lowe,LAA,316
-316,22,7,Luisangel Acuna,CWS,317
-317,22,8,Dominic Canzone,SEA,318
-318,22,9,Brayan Bello,BOS,319
-319,22,10,Max Meyer,MIA,320
-320,22,11,Chase Meidroth,CWS,321
-321,22,12,Jameson Taillon,CHC,322
-322,22,13,Cedric Mullins,TB,323
-323,22,14,Matt Wallner,MIN,324
-324,22,15,Jordan Walker,STL,325
+315,22,3,Josh Lowe,LAA,316
+316,22,4,Luisangel Acuna,CWS,317
+317,22,5,Dominic Canzone,SEA,318
+318,22,6,Brayan Bello,BOS,319
+319,22,7,Max Meyer,MIA,320
+320,22,8,Chase Meidroth,CWS,321
+321,22,9,Jameson Taillon,CHC,322
+322,22,10,Cedric Mullins,TB,323
+323,22,11,Matt Wallner,MIN,324
+324,22,12,Jordan Walker,STL,325
+325,22,13,Andrew Painter,PHI,326
+326,22,14,Nasim Nunez,WAS,327
+327,22,15,Chad Patrick,MLW,328
 0,1,1,Aaron Judge,NYY,1
 1,1,2,Shohei Ohtani,LAD,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -576,6 +579,10 @@
 249,17,10,Ryan Weathers,NYY,250
 250,17,11,Bryan Abreu,HOU,251
 251,17,12,TJ Friedl,CIN,252
+252,17,13,Andrew Abbott,CIN,253
+253,17,14,Masyn Winn,STL,254
+254,17,15,Royce Lewis,MIN,255
+255,18,15,Josh Lowe,LAA,256
 0,1,1,Aaron Judge,NYY,1
 1,1,2,Shohei Ohtani,LAD,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -822,6 +829,9 @@
 243,17,4,Kyle Manzardo,CLE,244
 244,17,5,TJ Friedl,CIN,245
 245,17,6,Alec Bohm,PHI,246
+246,17,7,Brendan Donovan,SEA,247
+247,17,8,Casey Mize,DET,248
+248,17,9,Robert Garcia,TEX,249
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -2127,6 +2137,7 @@
 213,15,4,Jose Caballero,NYY,214
 214,15,5,Jorge Polanco,NYM,215
 215,15,6,Zac Gallen,ARZ,216
+216,15,7,Isaac Paredes,HOU,217
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -2322,17 +2333,19 @@
 192,13,13,Munetaka Murakami,CWS,193
 193,13,14,Bryan Reynolds,PIT,194
 194,13,15,Carter Jensen,KC,195
-195,14,5,Edward Cabrera,CHC,196
-196,14,6,Addison Barger,TOR,197
-197,14,7,Xavier Edwards,MIA,198
-198,14,8,Jac Caglianone,KC,199
-199,14,9,Sal Frelick,MLW,200
-200,14,10,Brendan Donovan,SEA,201
-201,14,11,Royce Lewis,MIN,202
-202,14,12,Ezequiel Tovar,COL,203
-203,14,13,Heliot Ramos,SF,204
-204,14,14,Mike Trout,LAA,205
-205,14,15,Daulton Varsho,TOR,206
+195,14,3,Edward Cabrera,CHC,196
+196,14,4,Addison Barger,TOR,197
+197,14,5,Xavier Edwards,MIA,198
+198,14,6,Jac Caglianone,KC,199
+199,14,7,Sal Frelick,MLW,200
+200,14,8,Brendan Donovan,SEA,201
+201,14,9,Royce Lewis,MIN,202
+202,14,10,Ezequiel Tovar,COL,203
+203,14,11,Heliot Ramos,SF,204
+204,14,12,Mike Trout,LAA,205
+205,14,13,Daulton Varsho,TOR,206
+206,14,14,Alec Bohm,PHI,207
+207,14,15,Jasson Dominguez,NYY,208
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -2544,6 +2557,10 @@
 208,14,14,Jack Flaherty,DET,209
 209,14,15,Robbie Ray,SF,210
 210,15,1,Tatsuya Imai,HOU,211
+211,15,2,Gleyber Torres,DET,212
+212,15,3,Cade Horton,CHC,213
+213,15,4,Zac Gallen,ARZ,214
+214,15,5,Shane Bieber,TOR,215
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -2727,6 +2744,7 @@
 180,13,1,Steven Kwan,CLE,181
 181,13,2,Sal Stewart,CIN,182
 182,13,3,Dylan Crews,WAS,183
+183,13,4,Shane Baz,BAL,184
 0,1,1,Bobby Witt Jr.,KC,1
 1,1,2,Shohei Ohtani,LAD,2
 2,1,3,Aaron Judge,NYY,3
@@ -2945,6 +2963,7 @@
 215,15,6,Joe Musgrove,SD,216
 216,15,7,Andrew Abbott,CIN,217
 217,15,8,Matt McLain,CIN,218
+218,15,9,Xander Bogaerts,SD,219
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -3251,6 +3270,10 @@
 303,21,4,Dominic Canzone,SEA,304
 304,21,5,Victor Caratini,MIN,305
 305,21,6,Dylan Beavers,BAL,306
+306,21,7,Roki Sasaki,LAD,307
+307,21,8,Harrison Bader,SF,308
+308,21,9,Chase DeLauter,CLE,309
+309,21,10,Cody Ponce,TOR,310
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -5022,11 +5045,12 @@
 282,19,13,Jordan Lawlar,ARZ,283
 283,19,14,Logan O`Hoppe,LAA,284
 284,19,15,Shane Smith,CWS,285
-285,20,11,Willi Castro,COL,286
-286,20,12,Luis Gil,NYY,287
-287,20,13,Max Meyer,MIA,288
-288,20,14,Casey Mize,DET,289
-289,20,15,Zebby Matthews,MIN,290
+285,20,10,Willi Castro,COL,286
+286,20,11,Luis Gil,NYY,287
+287,20,12,Max Meyer,MIA,288
+288,20,13,Casey Mize,DET,289
+289,20,14,Zebby Matthews,MIN,290
+290,20,15,Cody Ponce,TOR,291
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -5342,8 +5366,10 @@
 312,21,13,Brett Baty,NYM,313
 313,21,14,Will Warren,NYY,314
 314,21,15,JoJo Romero,STL,315
-315,22,14,Jake McCarthy,COL,316
-316,22,15,Colt Keith,DET,317
+315,22,12,Jake McCarthy,COL,316
+316,22,13,Colt Keith,DET,317
+317,22,14,Victor Scott II,STL,318
+318,22,15,Moises Ballesteros,CHC,319
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -5591,3 +5617,5 @@
 244,17,5,Jake Burger,TEX,245
 245,17,6,Kirby Yates,LAA,246
 246,17,7,Noah Cameron,KC,247
+247,17,8,Alec Bohm,PHI,248
+248,17,9,Logan Henderson,MLW,249
