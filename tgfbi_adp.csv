@@ -90,8 +90,8 @@ Seiya Suzuki,CHC,91.45,75,103,28,22
 Oneil Cruz,PIT,91.86,73,117,44,22
 Randy Arozarena,SEA,92.59,83,113,30,22
 Salvador Perez,KC,92.91,73,112,39,22
-Nolan McLean,NYM,94.45,72,111,39,22
 Bo Bichette,NYM,94.45,75,117,42,22
+Nolan McLean,NYM,94.45,72,111,39,22
 Will Smith,LAD,95.86,58,118,60,22
 Josh Hader,HOU,96.95,65,135,70,22
 Corey Seager,TEX,97.05,77,119,42,22
@@ -140,8 +140,8 @@ Brandon Woodruff,MLW,137.0,104,170,66,22
 Cam Schlittler,NYY,138.82,110,169,59,22
 Kyle Stowers,MIA,141.77,114,179,65,22
 Noelvi Marte,CIN,143.41,120,165,45,22
-Adley Rutschman,BAL,144.36,107,187,80,22
 Nathan Eovaldi,TEX,144.36,109,173,64,22
+Adley Rutschman,BAL,144.36,107,187,80,22
 Brandon Nimmo,TEX,144.64,121,177,56,22
 Taylor Ward,BAL,147.5,127,193,66,22
 Konnor Griffin,PIT,149.55,101,194,93,22
@@ -195,8 +195,8 @@ Kyle Teel,CWS,188.23,166,231,65,22
 Addison Barger,TOR,191.24,140,219,79,21
 Bryan Abreu,HOU,194.05,156,251,95,21
 Seranthony Dominguez,CWS,197.79,165,235,70,19
-Ezequiel Tovar,COL,198.71,159,235,76,21
 Royce Lewis,MIN,200.29,174,255,81,21
+Ezequiel Tovar,COL,200.68,159,242,83,22
 Shane Baz,BAL,200.86,169,228,59,22
 Bryan Reynolds,PIT,203.43,165,238,73,21
 Munetaka Murakami,CWS,204.0,166,236,70,21
@@ -244,7 +244,7 @@ Shane Bieber,TOR,234.8,163,322,159,5
 Marcus Semien,NYM,235.93,187,279,92,14
 Dillon Dingler,DET,238.0,184,267,83,15
 Ryan Jeffers,MIN,240.44,185,275,90,16
-Colton Cowser,BAL,241.0,219,262,43,16
+Colton Cowser,BAL,240.94,219,262,43,17
 Garrett Whitlock,BOS,241.0,241,241,0,1
 Mickey Moniak,COL,242.0,212,264,52,17
 Trent Grisham,NYY,243.0,214,273,59,18
@@ -261,8 +261,8 @@ Shane Smith,CWS,253.07,217,285,68,14
 Jung Hoo Lee,SF,253.5,208,298,90,10
 Luis Arraez,SF,253.92,185,291,106,12
 Marcelo Mayer,BOS,254.33,213,280,67,3
-Spencer Steer,CIN,254.7,227,295,68,10
 Brett Baty,NYM,254.8,188,313,125,10
+Spencer Steer,CIN,254.91,227,295,68,11
 Bryce Miller,SEA,255.0,224,281,57,12
 Masyn Winn,STL,255.83,179,314,135,12
 Carlos Correa,HOU,256.85,182,298,116,13
@@ -277,27 +277,27 @@ Kodai Senga,NYM,262.56,223,288,65,9
 Ryan O`Hearn,PIT,263.73,240,292,52,11
 Merrill Kelly,ARZ,265.0,235,306,71,13
 Andrew Vaughn,MLW,265.56,247,283,36,9
+Joey Cantillo,CLE,266.1,238,299,61,10
 Evan Carter,TEX,266.89,243,297,54,9
-Kevin Ginkel,ARZ,267.0,238,296,58,2
 Jared Triolo,PIT,267.0,267,267,0,1
+Kevin Ginkel,ARZ,267.0,238,296,58,2
+Miguel Vargas,CWS,267.07,239,305,66,14
 Taylor Rogers,MIN,267.67,243,283,40,3
 Giancarlo Stanton,NYY,268.0,228,297,69,12
-Joey Cantillo,CLE,268.89,238,299,61,9
-Matt Shaw,CHC,269.0,219,309,90,6
 Anthony Santander,TOR,269.0,269,269,0,1
-Miguel Vargas,CWS,269.23,241,305,64,13
+Matt Shaw,CHC,269.0,219,309,90,6
 Braxton Ashcraft,PIT,269.38,245,287,42,8
 Grayson Rodriguez,LAA,270.78,249,300,51,9
 Brandon Sproat,MLW,271.0,271,271,0,1
 Nick Castellanos,SD,273.0,273,273,0,1
+Carlos Narvaez,BOS,274.5,253,297,44,8
 Brandon Marsh,PHI,275.0,260,290,30,2
+Chase DeLauter,CLE,275.1,213,309,96,10
 Gerrit Cole,NYY,275.5,221,345,124,10
 Carson Benge,NYM,275.78,220,332,112,9
 Josh Lowe,LAA,276.33,232,316,84,9
 Casey Mize,DET,276.78,248,301,53,9
 Garrett Cleavinger,TB,277.0,277,277,0,1
-Chase DeLauter,CLE,277.22,213,309,96,9
-Carlos Narvaez,BOS,277.29,253,297,44,7
 Cody Ponce,TOR,277.4,260,310,50,10
 Spencer Horwitz,PIT,279.0,240,318,78,2
 Dylan Beavers,BAL,279.2,256,306,50,5
@@ -306,8 +306,8 @@ Andrew Painter,PHI,280.17,248,326,78,6
 Ernie Clement,TOR,284.11,250,338,88,9
 Kyle Finnegan,DET,286.6,189,353,164,5
 Sean Manaea,NYM,286.88,262,309,47,8
-Victor Scott II,STL,287.0,206,318,112,7
 Garrett Mitchell,MLW,287.0,287,287,0,1
+Victor Scott II,STL,287.0,206,318,112,7
 Andres Gimenez,TOR,288.0,255,339,84,6
 Clayton Beeter,WAS,288.75,261,330,69,8
 Victor Vodnik,COL,289.67,282,295,13,3
@@ -332,8 +332,8 @@ Edgar Quero,CWS,302.0,269,344,75,4
 Bailey Ober,MIN,302.6,282,329,47,5
 Clay Holmes,NYM,303.0,277,326,49,4
 Jorge Soler,LAA,304.5,289,320,31,2
-JoJo Romero,STL,305.0,295,315,20,2
 Robert Stephenson,LAA,305.0,305,305,0,1
+JoJo Romero,STL,305.0,295,315,20,2
 Chase Meidroth,CWS,305.67,286,321,35,3
 Cade Cavalli,WAS,305.8,275,329,54,5
 Jordan Walker,STL,306.0,268,325,57,4
@@ -347,8 +347,8 @@ Brooks Lee,MIN,309.0,292,329,37,4
 Robby Snelling,MIA,310.33,259,352,93,6
 Harrison Bader,SF,311.33,294,348,54,6
 Quinn Priester,MLW,311.5,303,331,28,4
-Danny Jansen,TEX,313.0,313,313,0,1
 Yoan Moncada,LAA,313.0,313,313,0,1
+Danny Jansen,TEX,313.0,313,313,0,1
 Zach McKinstry,DET,313.67,301,325,24,3
 Max Meyer,MIA,313.8,288,328,40,5
 Mick Abel,MIN,315.5,289,342,53,2
