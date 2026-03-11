@@ -4,7 +4,7 @@ League 1064: 307 picks
 League 1065: 399 picks
 League 1066: 292 picks
 League 1067: 271 picks
-League 1068: 344 picks
+League 1068: 346 picks
 League 1069: 265 picks
 League 1070: 259 picks
 League 1071: 267 picks
@@ -16,7 +16,7 @@ League 1076: 277 picks
 League 1077: 322 picks
 League 1078: 274 picks
 League 1079: 329 picks
-League 1080: 309 picks
+League 1080: 311 picks
 League 1081: 336 picks
 League 1082: 384 picks
 League 1083: 299 picks
