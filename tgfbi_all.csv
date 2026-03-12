@@ -2505,6 +2505,9 @@
 371,25,12,Bryce Eldridge,SF,372
 372,25,13,Carson Kelly,CHC,373
 373,25,14,Ian Seymour,TB,374
+374,25,15,Cole Young,SEA,375
+375,26,14,Luis Severino,ATH,376
+376,26,15,Nolan Arenado,ARZ,377
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -2810,6 +2813,10 @@
 302,21,3,Max Meyer,MIA,303
 303,21,4,Zebby Matthews,MIN,304
 304,21,5,Chase Meidroth,CWS,305
+305,21,6,Josh Lowe,LAA,306
+306,21,7,Robby Snelling,MIA,307
+307,21,8,Carson Kelly,CHC,308
+308,21,9,Victor Scott II,STL,309
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -3920,17 +3927,18 @@
 282,19,13,Carlos Narvaez,BOS,283
 283,19,14,Andrew Vaughn,MLW,284
 284,19,15,Bo Naylor,CLE,285
-285,20,5,Spencer Steer,CIN,286
-286,20,6,Zebby Matthews,MIN,287
-287,20,7,Carlos Correa,HOU,288
-288,20,8,Willi Castro,COL,289
-289,20,9,Cody Ponce,TOR,290
-290,20,10,Ernie Clement,TOR,291
-291,20,11,Sean Manaea,NYM,292
-292,20,12,Ian Seymour,TB,293
-293,20,13,Jordan Lawlar,ARZ,294
-294,20,14,Jordan Walker,STL,295
-295,20,15,Bryce Eldridge,SF,296
+285,20,4,Spencer Steer,CIN,286
+286,20,5,Zebby Matthews,MIN,287
+287,20,6,Carlos Correa,HOU,288
+288,20,7,Willi Castro,COL,289
+289,20,8,Cody Ponce,TOR,290
+290,20,9,Ernie Clement,TOR,291
+291,20,10,Sean Manaea,NYM,292
+292,20,11,Ian Seymour,TB,293
+293,20,12,Jordan Lawlar,ARZ,294
+294,20,13,Jordan Walker,STL,295
+295,20,14,Bryce Eldridge,SF,296
+296,20,15,Noah Cameron,KC,297
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
