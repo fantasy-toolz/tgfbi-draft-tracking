@@ -434,18 +434,21 @@
 432,29,13,Paul Sewald,ARZ,433
 433,29,14,Parker Meadows,DET,434
 434,29,15,Adrian Morejon,SD,435
-435,30,4,Jared Triolo,PIT,436
-436,30,5,Michael Soroka,ARZ,437
-437,30,6,Will Benson,CIN,438
-438,30,7,Patrick Bailey,SF,439
-439,30,8,Cole Young,SEA,440
-440,30,9,Justin Wrobleski,LAD,441
-441,30,10,Rhys Hoskins,MLW,442
-442,30,11,Hyeseong Kim,LAD,443
-443,30,12,Ryan McMahon,NYY,444
-444,30,13,River Ryan,LAD,445
-445,30,14,Justin Steele,CHC,446
-446,30,15,Miguel Amaya,CHC,447
+435,30,1,Jared Triolo,PIT,436
+436,30,2,Michael Soroka,ARZ,437
+437,30,3,Will Benson,CIN,438
+438,30,4,Patrick Bailey,SF,439
+439,30,5,Cole Young,SEA,440
+440,30,6,Justin Wrobleski,LAD,441
+441,30,7,Rhys Hoskins,MLW,442
+442,30,8,Hyeseong Kim,LAD,443
+443,30,9,Ryan McMahon,NYY,444
+444,30,10,River Ryan,LAD,445
+445,30,11,Justin Steele,CHC,446
+446,30,12,Miguel Amaya,CHC,447
+447,30,13,Jared Jones,PIT,448
+448,30,14,Jordan Leasure,CWS,449
+449,30,15,Kristian Campbell,BOS,450
 0,1,1,Aaron Judge,NYY,1
 1,1,2,Shohei Ohtani,LAD,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -778,6 +781,9 @@
 329,22,15,Max Meyer,MIA,330
 330,23,1,Jorge Soler,LAA,331
 331,23,2,Jose Soriano,LAA,332
+332,23,3,Josh Bell,MIN,333
+333,23,4,Kirby Yates,LAA,334
+334,23,5,Zach McKinstry,DET,335
 0,1,1,Aaron Judge,NYY,1
 1,1,2,Shohei Ohtani,LAD,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -1119,6 +1125,13 @@
 338,23,9,Moises Ballesteros,CHC,339
 339,23,10,Lenyn Sosa,CWS,340
 340,23,11,Roki Sasaki,LAD,341
+341,23,12,Nick Castellanos,SD,342
+342,23,13,Cade Cavalli,WAS,343
+343,23,14,Jonathan India,KC,344
+344,23,15,Matt Wallner,MIN,345
+345,24,13,Yusei Kikuchi,LAA,346
+346,24,14,Jake McCarthy,COL,347
+347,24,15,Coby Mayo,BAL,348
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -1554,11 +1567,13 @@
 432,29,13,Adrian Houser,SF,433
 433,29,14,Randy Vasquez,SD,434
 434,29,15,Jake Meyers,HOU,435
-435,30,11,Steven Matz,TB,436
-436,30,12,Trevor Larnach,MIN,437
-437,30,13,Pavin Smith,ARZ,438
-438,30,14,Travis Bazzana,CLE,439
-439,30,15,Will Vest,DET,440
+435,30,9,Steven Matz,TB,436
+436,30,10,Trevor Larnach,MIN,437
+437,30,11,Pavin Smith,ARZ,438
+438,30,12,Travis Bazzana,CLE,439
+439,30,13,Will Vest,DET,440
+440,30,14,Victor Caratini,MIN,441
+441,30,15,JR Ritchie,ATL,442
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -1900,6 +1915,13 @@
 338,23,9,Reid Detmers,LAA,339
 339,23,10,Cam Smith,HOU,340
 340,23,11,Robby Snelling,MIA,341
+341,23,12,Simeon Woods Richardson,MIN,342
+342,23,13,Matthew Liberatore,STL,343
+343,23,14,Danny Jansen,TEX,344
+344,23,15,Luis Gil,NYY,345
+345,24,13,Jake Mangum,PIT,346
+346,24,14,JoJo Romero,STL,347
+347,24,15,Clayton Beeter,WAS,348
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Bobby Witt Jr.,KC,2
 2,1,3,Juan Soto,NYM,3
@@ -2215,12 +2237,20 @@
 312,21,13,Brooks Lee,MIN,313
 313,21,14,Nasim Nunez,WAS,314
 314,21,15,Cam Smith,HOU,315
-315,22,10,Robby Snelling,MIA,316
-316,22,11,Victor Scott II,STL,317
-317,22,12,Brayan Bello,BOS,318
-318,22,13,Zebby Matthews,MIN,319
-319,22,14,Clayton Beeter,WAS,320
-320,22,15,Jung Hoo Lee,SF,321
+315,22,2,Robby Snelling,MIA,316
+316,22,3,Victor Scott II,STL,317
+317,22,4,Brayan Bello,BOS,318
+318,22,5,Zebby Matthews,MIN,319
+319,22,6,Clayton Beeter,WAS,320
+320,22,7,Jung Hoo Lee,SF,321
+321,22,8,Dylan Beavers,BAL,322
+322,22,9,Jeff McNeil,ATH,323
+323,22,10,Chad Patrick,MLW,324
+324,22,11,Luis Gil,NYY,325
+325,22,12,Jake Cronenworth,SD,326
+326,22,13,Nolan Arenado,ARZ,327
+327,22,14,Jeremiah Estrada,SD,328
+328,22,15,Josh Bell,MIN,329
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Bobby Witt Jr.,KC,2
 2,1,3,Ronald Acuna Jr.,ATL,3
@@ -2617,6 +2647,10 @@
 393,27,4,Paul Goldschmidt,NYY,394
 394,27,5,Bailey Ober,MIN,395
 395,27,6,Jake McCarthy,COL,396
+396,27,7,Braxton Garrett,MIA,397
+397,27,8,Victor Vodnik,COL,398
+398,27,9,Brady House,WAS,399
+399,27,10,Zack Littell,WAS,400
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -2932,12 +2966,25 @@
 312,21,13,Parker Messick,CLE,313
 313,21,14,Jordan Walker,STL,314
 314,21,15,Anthony Volpe,NYY,315
-315,22,10,Josh Smith,TEX,316
-316,22,11,JoJo Romero,STL,317
-317,22,12,Marcell Ozuna,PIT,318
-318,22,13,Matthew Liberatore,STL,319
-319,22,14,Troy Melton,DET,320
-320,22,15,Dustin May,STL,321
+315,22,1,Josh Smith,TEX,316
+316,22,2,JoJo Romero,STL,317
+317,22,3,Marcell Ozuna,PIT,318
+318,22,4,Matthew Liberatore,STL,319
+319,22,5,Troy Melton,DET,320
+320,22,6,Dustin May,STL,321
+321,22,7,Victor Vodnik,COL,322
+322,22,8,Josh Jung,TEX,323
+323,22,9,Jeff McNeil,ATH,324
+324,22,10,Nolan Arenado,ARZ,325
+325,22,11,Luis Gil,NYY,326
+326,22,12,Reid Detmers,LAA,327
+327,22,13,Luisangel Acuna,CWS,328
+328,22,14,Colt Keith,DET,329
+329,22,15,Jesus Sanchez,TOR,330
+330,23,1,Kyle Harrison,MLW,331
+331,23,2,Roki Sasaki,LAD,332
+332,23,3,Clay Holmes,NYM,333
+333,23,4,Shane Bieber,TOR,334
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -3242,6 +3289,7 @@
 301,21,2,Brett Baty,NYM,302
 302,21,3,Brandon Pfaadt,ARZ,303
 303,21,4,Josh Bell,MIN,304
+304,21,5,Marcell Ozuna,PIT,305
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -3548,6 +3596,11 @@
 303,21,4,Mitch Keller,PIT,304
 304,21,5,Noah Cameron,KC,305
 305,21,6,Casey Mize,DET,306
+306,21,7,Payton Tolle,BOS,307
+307,21,8,Clayton Beeter,WAS,308
+308,21,9,Edgar Quero,CWS,309
+309,21,10,Cam Smith,HOU,310
+310,21,11,Marcelo Mayer,BOS,311
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -3803,9 +3856,14 @@
 252,17,13,TJ Friedl,CIN,253
 253,17,14,Gerrit Cole,NYY,254
 254,17,15,Alec Bohm,PHI,255
-255,18,13,Merrill Kelly,ARZ,256
-256,18,14,Mickey Moniak,COL,257
-257,18,15,Masyn Winn,STL,258
+255,18,8,Merrill Kelly,ARZ,256
+256,18,9,Mickey Moniak,COL,257
+257,18,10,Masyn Winn,STL,258
+258,18,11,Ian Seymour,TB,259
+259,18,12,Robert Garcia,TEX,260
+260,18,13,Mike Burrows,HOU,261
+261,18,14,Colton Cowser,BAL,262
+262,18,15,Luis Arraez,SF,263
 0,1,1,Bobby Witt Jr.,KC,1
 1,1,2,Shohei Ohtani,LAD,2
 2,1,3,Aaron Judge,NYY,3
@@ -4111,6 +4169,10 @@
 302,21,3,Lenyn Sosa,CWS,303
 303,21,4,Tommy Edman,LAD,304
 304,21,5,Edwin Uceta,TB,305
+305,21,6,Carson Kelly,CHC,306
+306,21,7,Edgar Quero,CWS,307
+307,21,8,Matt Wallner,MIN,308
+308,21,9,Harrison Bader,SF,309
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -4876,11 +4938,12 @@
 312,21,13,Jameson Taillon,CHC,313
 313,21,14,David Peterson,NYM,314
 314,21,15,Logan Henderson,MLW,315
-315,22,11,Bailey Ober,MIN,316
-316,22,12,Luis Gil,NYY,317
-317,22,13,Ryan Weiss,HOU,318
-318,22,14,Paul Sewald,ARZ,319
-319,22,15,Dylan Beavers,BAL,320
+315,22,10,Bailey Ober,MIN,316
+316,22,11,Luis Gil,NYY,317
+317,22,12,Ryan Weiss,HOU,318
+318,22,13,Paul Sewald,ARZ,319
+319,22,14,Dylan Beavers,BAL,320
+320,22,15,Kyle Harrison,MLW,321
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -5196,10 +5259,15 @@
 312,21,13,Jonathan India,KC,313
 313,21,14,Will Warren,NYY,314
 314,21,15,Jeremiah Estrada,SD,315
-315,22,12,Tyler Mahle,SF,316
-316,22,13,Nick Castellanos,SD,317
-317,22,14,Josh Bell,MIN,318
-318,22,15,JoJo Romero,STL,319
+315,22,7,Tyler Mahle,SF,316
+316,22,8,Nick Castellanos,SD,317
+317,22,9,Josh Bell,MIN,318
+318,22,10,JoJo Romero,STL,319
+319,22,11,Grant Taylor,CWS,320
+320,22,12,Mick Abel,MIN,321
+321,22,13,Gavin Sheets,SD,322
+322,22,14,Cedric Mullins,TB,323
+323,22,15,Reid Detmers,LAA,324
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -5562,6 +5630,11 @@
 359,24,15,Thomas White,MIA,360
 360,25,1,Spencer Arrighetti,HOU,361
 361,25,2,Nolan Schanuel,LAA,362
+362,25,3,Jordan Walker,STL,363
+363,25,4,Zach McKinstry,DET,364
+364,25,5,Braxton Garrett,MIA,365
+365,25,6,Mick Abel,MIN,366
+366,25,7,Jared Triolo,PIT,367
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -5866,6 +5939,14 @@
 301,21,2,Mick Abel,MIN,302
 302,21,3,Jose Soriano,LAA,303
 303,21,4,Zebby Matthews,MIN,304
+304,21,5,Brandon Marsh,PHI,305
+305,21,6,Ian Seymour,TB,306
+306,21,7,Ernie Clement,TOR,307
+307,21,8,Nolan Schanuel,LAA,308
+308,21,9,Lenyn Sosa,CWS,309
+309,21,10,Carson Benge,NYM,310
+310,21,11,Kyle Harrison,MLW,311
+311,21,12,Andrew Painter,PHI,312
 0,1,1,Bobby Witt Jr.,KC,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Shohei Ohtani,LAD,3
@@ -6236,6 +6317,13 @@
 367,25,8,Zach McKinstry,DET,368
 368,25,9,Robert Stephenson,LAA,369
 369,25,10,Corbin Burnes,ARZ,370
+370,25,11,Shane Bieber,TOR,371
+371,25,12,Garrett Whitlock,BOS,372
+372,25,13,Grant Taylor,CWS,373
+373,25,14,Matt Svanson,STL,374
+374,25,15,Jordan Walker,STL,375
+375,26,14,Payton Tolle,BOS,376
+376,26,15,Brady House,WAS,377
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -6955,6 +7043,12 @@
 368,25,9,Harry Ford,WAS,369
 369,25,10,Jacob Lopez,ATH,370
 370,25,11,Justin Sterner,ATH,371
+371,25,12,Reynaldo Lopez,ATL,372
+372,25,13,Paul Sewald,ARZ,373
+373,25,14,Matt Svanson,STL,374
+374,25,15,Brandon Marsh,PHI,375
+375,26,14,Tyler O`Neill,BAL,376
+376,26,15,Matthew Liberatore,STL,377
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -7390,15 +7484,18 @@
 432,29,13,Jeffrey Springs,ATH,433
 433,29,14,Cristian Javier,HOU,434
 434,29,15,Ryan Mountcastle,BAL,435
-435,30,7,Camilo Doval,NYY,436
-436,30,8,Jorge Soler,LAA,437
-437,30,9,Paul Sewald,ARZ,438
-438,30,10,Tanner Scott,LAD,439
-439,30,11,George Klassen,LAA,440
-440,30,12,Brady House,WAS,441
-441,30,13,Jordan Romano,LAA,442
-442,30,14,Freddy Fermin,SD,443
-443,30,15,Shane Drohan,MLW,444
+435,30,4,Camilo Doval,NYY,436
+436,30,5,Jorge Soler,LAA,437
+437,30,6,Paul Sewald,ARZ,438
+438,30,7,Tanner Scott,LAD,439
+439,30,8,George Klassen,LAA,440
+440,30,9,Brady House,WAS,441
+441,30,10,Jordan Romano,LAA,442
+442,30,11,Freddy Fermin,SD,443
+443,30,12,Shane Drohan,MLW,444
+444,30,13,Slade Cecconi,CLE,445
+445,30,14,Nick Castellanos,SD,446
+446,30,15,Phil Maton,CHC,447
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -7738,3 +7835,11 @@
 336,23,7,Zack Littell,WAS,337
 337,23,8,Victor Vodnik,COL,338
 338,23,9,Zach Eflin,BAL,339
+339,23,10,Victor Caratini,MIN,340
+340,23,11,Mitch Keller,PIT,341
+341,23,12,Lourdes Gurriel Jr.,ARZ,342
+342,23,13,David Peterson,NYM,343
+343,23,14,Reid Detmers,LAA,344
+344,23,15,Carson Kelly,CHC,345
+345,24,14,Victor Scott II,STL,346
+346,24,15,Anthony Volpe,NYY,347
