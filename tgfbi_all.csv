@@ -824,14 +824,17 @@
 372,25,13,Lane Thomas,KC,373
 373,25,14,Zac Veen,COL,374
 374,25,15,Logan Henderson,MLW,375
-375,26,8,Josh Jung,TEX,376
-376,26,9,Hyeseong Kim,LAD,377
-377,26,10,Nolan Schanuel,LAA,378
-378,26,11,Matt Svanson,STL,379
-379,26,12,Jacob Lopez,ATH,380
-380,26,13,Miguel Andujar,SD,381
-381,26,14,Seth Lugo,KC,382
-382,26,15,Chad Patrick,MLW,383
+375,26,5,Josh Jung,TEX,376
+376,26,6,Hyeseong Kim,LAD,377
+377,26,7,Nolan Schanuel,LAA,378
+378,26,8,Matt Svanson,STL,379
+379,26,9,Jacob Lopez,ATH,380
+380,26,10,Miguel Andujar,SD,381
+381,26,11,Seth Lugo,KC,382
+382,26,12,Chad Patrick,MLW,383
+383,26,13,Justin Steele,CHC,384
+384,26,14,Brady Singer,CIN,385
+385,26,15,Austin Hays,CWS,386
 0,1,1,Aaron Judge,NYY,1
 1,1,2,Shohei Ohtani,LAD,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -4793,6 +4796,7 @@
 367,25,8,Justin Sterner,ATH,368
 368,25,9,Tyler Mahle,SF,369
 369,25,10,Isaac Collins,KC,370
+370,25,11,Jesus Sanchez,TOR,371
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -7711,10 +7715,11 @@
 432,29,13,Zach Cole,HOU,433
 433,29,14,Michael McGreevy,STL,434
 434,29,15,Kyle Leahy,STL,435
-435,30,12,Ben Joyce,LAA,436
-436,30,13,Miguel Amaya,CHC,437
-437,30,14,Nolan Arenado,ARZ,438
-438,30,15,J.P. Crawford,SEA,439
+435,30,11,Ben Joyce,LAA,436
+436,30,12,Miguel Amaya,CHC,437
+437,30,13,Nolan Arenado,ARZ,438
+438,30,14,J.P. Crawford,SEA,439
+439,30,15,Randy Vasquez,SD,440
 0,1,1,Aaron Judge,NYY,1
 1,1,2,Shohei Ohtani,LAD,2
 2,1,3,Juan Soto,NYM,3
@@ -8147,6 +8152,7 @@
 429,29,10,Anthony Volpe,NYY,430
 430,29,11,Ryan Weiss,HOU,431
 431,29,12,Mike Yastrzemski,ATL,432
+432,29,13,Grant Holmes,ATL,433
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
