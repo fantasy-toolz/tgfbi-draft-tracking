@@ -853,6 +853,8 @@
 401,27,12,Owen Caissie,MIA,402
 402,27,13,Garrett Whitlock,BOS,403
 403,27,14,Rhett Lowder,CIN,404
+404,27,15,Adrian Morejon,SD,405
+405,28,15,Tyler Freeman,COL,406
 0,1,1,Aaron Judge,NYY,1
 1,1,2,Shohei Ohtani,LAD,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -1280,6 +1282,8 @@
 424,29,5,JR Ritchie,ATL,425
 425,29,6,Joe Boyle,TB,426
 426,29,7,Braxton Garrett,MIA,427
+427,29,8,Joey Ortiz,MLW,428
+428,29,9,Max Scherzer,TOR,429
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -3860,6 +3864,9 @@
 371,25,12,Matthew Liberatore,STL,372
 372,25,13,Jorge Soler,LAA,373
 373,25,14,Zack Littell,WAS,374
+374,25,15,Coby Mayo,BAL,375
+375,26,14,Harry Ford,WAS,376
+376,26,15,Jake Cronenworth,SD,377
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -4643,6 +4650,9 @@
 361,25,2,Kody Clemens,MIN,362
 362,25,3,Gavin Sheets,SD,363
 363,25,4,JoJo Romero,STL,364
+364,25,5,Brandon Marsh,PHI,365
+365,25,6,Nick Castellanos,SD,366
+366,25,7,Nasim Nunez,WAS,367
 0,1,1,Bobby Witt Jr.,KC,1
 1,1,2,Shohei Ohtani,LAD,2
 2,1,3,Aaron Judge,NYY,3
@@ -5040,6 +5050,7 @@
 394,27,5,Johan Oviedo,BOS,395
 395,27,6,Slade Cecconi,CLE,396
 396,27,7,Grant Holmes,ATL,397
+397,27,8,Braxton Garrett,MIA,398
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -5917,6 +5928,7 @@
 424,29,5,Richard Fitts,STL,425
 425,29,6,Seth Lugo,KC,426
 426,29,7,Jonah Tong,NYM,427
+427,29,8,Cole Young,SEA,428
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -6318,6 +6330,8 @@
 398,27,9,Zach McKinstry,DET,399
 399,27,10,Richard Fitts,STL,400
 400,27,11,Andrew Benintendi,CWS,401
+401,27,12,Anthony Volpe,NYY,402
+402,27,13,Danny Jansen,TEX,403
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
