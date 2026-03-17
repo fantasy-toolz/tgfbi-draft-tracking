@@ -875,6 +875,7 @@
 423,29,4,Marcelo Mayer,BOS,424
 424,29,5,Chris Martin,TEX,425
 425,29,6,Walker Buehler,PHI,426
+426,29,7,Cole Young,SEA,427
 0,1,1,Aaron Judge,NYY,1
 1,1,2,Shohei Ohtani,LAD,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -4404,15 +4405,20 @@
 432,29,13,Rhett Lowder,CIN,433
 433,29,14,Lucas Erceg,KC,434
 434,29,15,Spencer Horwitz,PIT,435
-435,30,7,Chris Martin,TEX,436
-436,30,8,David Hamilton,MLW,437
-437,30,9,Javier Baez,DET,438
-438,30,10,Hogan Harris,ATH,439
-439,30,11,Yoendrys Gomez,TB,440
-440,30,12,Justin Verlander,DET,441
-441,30,13,Jordan Romano,LAA,442
-442,30,14,Zack Littell,WAS,443
-443,30,15,Tony Santillan,CIN,444
+435,30,2,Chris Martin,TEX,436
+436,30,3,David Hamilton,MLW,437
+437,30,4,Javier Baez,DET,438
+438,30,5,Hogan Harris,ATH,439
+439,30,6,Yoendrys Gomez,TB,440
+440,30,7,Justin Verlander,DET,441
+441,30,8,Jordan Romano,LAA,442
+442,30,9,Zack Littell,WAS,443
+443,30,10,Tony Santillan,CIN,444
+444,30,11,Mauricio Dubon,ATL,445
+445,30,12,Ha-Seong Kim,ATL,446
+446,30,13,Victor Robles,SEA,447
+447,30,14,Brooks Baldwin,CWS,448
+448,30,15,Tanner Scott,LAD,449
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -6579,9 +6585,12 @@
 432,29,13,Denzel Clarke,ATH,433
 433,29,14,Mark Leiter Jr.,ATH,434
 434,29,15,Seth Lugo,KC,435
-435,30,13,Shawn Armstrong,CLE,436
-436,30,14,Patrick Bailey,SF,437
-437,30,15,Johan Oviedo,BOS,438
+435,30,10,Shawn Armstrong,CLE,436
+436,30,11,Patrick Bailey,SF,437
+437,30,12,Johan Oviedo,BOS,438
+438,30,13,Jared Triolo,PIT,439
+439,30,14,Didier Fuentes,ATL,440
+440,30,15,Nick Fortes,TB,441
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
