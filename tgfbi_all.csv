@@ -4023,6 +4023,8 @@
 421,29,2,Garrett Mitchell,MLW,422
 422,29,3,Javier Baez,DET,423
 423,29,4,Taj Bradley,MIN,424
+424,29,5,Jeffrey Springs,ATH,425
+425,29,6,Victor Vodnik,COL,426
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -5335,19 +5337,21 @@
 432,29,13,Adrian Houser,SF,433
 433,29,14,Ryan McMahon,NYY,434
 434,29,15,Brandon Marsh,PHI,435
-435,30,3,Jordan Romano,LAA,436
-436,30,4,Trevor Larnach,MIN,437
-437,30,5,Brady House,WAS,438
-438,30,6,Edouard Julien,COL,439
-439,30,7,Anthony Kay,CWS,440
-440,30,8,Nelson Velazquez,KC,441
-441,30,9,Kristian Campbell,BOS,442
-442,30,10,Nick Martinez,TB,443
-443,30,11,Jared Jones,PIT,444
-444,30,12,Jack Perkins,ATH,445
-445,30,13,Dalton Rushing,LAD,446
-446,30,14,Chris Martin,TEX,447
-447,30,15,Gavin Sheets,SD,448
+435,30,1,Jordan Romano,LAA,436
+436,30,2,Trevor Larnach,MIN,437
+437,30,3,Brady House,WAS,438
+438,30,4,Edouard Julien,COL,439
+439,30,5,Anthony Kay,CWS,440
+440,30,6,Nelson Velazquez,KC,441
+441,30,7,Kristian Campbell,BOS,442
+442,30,8,Nick Martinez,TB,443
+443,30,9,Jared Jones,PIT,444
+444,30,10,Jack Perkins,ATH,445
+445,30,11,Dalton Rushing,LAD,446
+446,30,12,Chris Martin,TEX,447
+447,30,13,Gavin Sheets,SD,448
+448,30,14,Colt Emerson,SEA,449
+449,30,15,Lourdes Gurriel Jr.,ARZ,450
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
