@@ -884,15 +884,21 @@
 432,29,13,Anthony Kay,CWS,433
 433,29,14,Javier Baez,DET,434
 434,29,15,Jared Triolo,PIT,435
-435,30,7,Luis Morales,ATH,436
-436,30,8,Seth Halvorsen,COL,437
-437,30,9,Patrick Bailey,SF,438
-438,30,10,Slade Cecconi,CLE,439
-439,30,11,Lucas Erceg,KC,440
-440,30,12,Ryne Stanek,STL,441
-441,30,13,Corbin Burnes,ARZ,442
-442,30,14,Keibert Ruiz,WAS,443
-443,30,15,Victor Caratini,MIN,444
+435,30,1,Luis Morales,ATH,436
+436,30,2,Seth Halvorsen,COL,437
+437,30,3,Patrick Bailey,SF,438
+438,30,4,Slade Cecconi,CLE,439
+439,30,5,Lucas Erceg,KC,440
+440,30,6,Ryne Stanek,STL,441
+441,30,7,Corbin Burnes,ARZ,442
+442,30,8,Keibert Ruiz,WAS,443
+443,30,9,Victor Caratini,MIN,444
+444,30,10,JJ Bleday,CIN,445
+445,30,11,Danny Jansen,TEX,446
+446,30,12,Nick Martinez,TB,447
+447,30,13,Tommy Edman,LAD,448
+448,30,14,Aaron Ashby,MLW,449
+449,30,15,Griffin Conine,MIA,450
 0,1,1,Aaron Judge,NYY,1
 1,1,2,Shohei Ohtani,LAD,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -3998,12 +4004,15 @@
 402,27,13,Walker Buehler,PHI,403
 403,27,14,Luis Severino,ATH,404
 404,27,15,Ha-Seong Kim,ATL,405
-405,28,10,Edwin Uceta,TB,406
-406,28,11,Brayan Rocchio,CLE,407
-407,28,12,JR Ritchie,ATL,408
-408,28,13,Andrew Benintendi,CWS,409
-409,28,14,Isaac Collins,KC,410
-410,28,15,Michael Soroka,ARZ,411
+405,28,7,Edwin Uceta,TB,406
+406,28,8,Brayan Rocchio,CLE,407
+407,28,9,JR Ritchie,ATL,408
+408,28,10,Andrew Benintendi,CWS,409
+409,28,11,Isaac Collins,KC,410
+410,28,12,Michael Soroka,ARZ,411
+411,28,13,Cristian Javier,HOU,412
+412,28,14,Nolan Gorman,STL,413
+413,28,15,Logan Henderson,MLW,414
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -4878,6 +4887,7 @@
 421,29,2,Jeffrey Springs,ATH,422
 422,29,3,Luke Weaver,NYM,423
 423,29,4,Justin Wrobleski,LAD,424
+424,29,5,Chris Martin,TEX,425
 0,1,1,Bobby Witt Jr.,KC,1
 1,1,2,Shohei Ohtani,LAD,2
 2,1,3,Aaron Judge,NYY,3
@@ -5313,9 +5323,11 @@
 432,29,13,Adrian Houser,SF,433
 433,29,14,Ryan McMahon,NYY,434
 434,29,15,Brandon Marsh,PHI,435
-435,30,13,Jordan Romano,LAA,436
-436,30,14,Trevor Larnach,MIN,437
-437,30,15,Brady House,WAS,438
+435,30,11,Jordan Romano,LAA,436
+436,30,12,Trevor Larnach,MIN,437
+437,30,13,Brady House,WAS,438
+438,30,14,Edouard Julien,COL,439
+439,30,15,Anthony Kay,CWS,440
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -6651,15 +6663,20 @@
 432,29,13,Denzel Clarke,ATH,433
 433,29,14,Mark Leiter Jr.,ATH,434
 434,29,15,Seth Lugo,KC,435
-435,30,7,Shawn Armstrong,CLE,436
-436,30,8,Patrick Bailey,SF,437
-437,30,9,Johan Oviedo,BOS,438
-438,30,10,Jared Triolo,PIT,439
-439,30,11,Didier Fuentes,ATL,440
-440,30,12,Nick Fortes,TB,441
-441,30,13,Kyle Finnegan,DET,442
-442,30,14,Landen Roupp,SF,443
-443,30,15,Justin Wrobleski,LAD,444
+435,30,2,Shawn Armstrong,CLE,436
+436,30,3,Patrick Bailey,SF,437
+437,30,4,Johan Oviedo,BOS,438
+438,30,5,Jared Triolo,PIT,439
+439,30,6,Didier Fuentes,ATL,440
+440,30,7,Nick Fortes,TB,441
+441,30,8,Kyle Finnegan,DET,442
+442,30,9,Landen Roupp,SF,443
+443,30,10,Justin Wrobleski,LAD,444
+444,30,11,Tony Santillan,CIN,445
+445,30,12,Joshua Baez,STL,446
+446,30,13,Brady House,WAS,447
+447,30,14,Keibert Ruiz,WAS,448
+448,30,15,Edouard Julien,COL,449
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -7545,17 +7562,21 @@
 432,29,13,Simeon Woods Richardson,MIN,433
 433,29,14,Mauricio Dubon,ATL,434
 434,29,15,Jacob Latz,TEX,435
-435,30,5,Ryan McMahon,NYY,436
-436,30,6,Landen Roupp,SF,437
-437,30,7,Tanner Scott,LAD,438
-438,30,8,Luis Severino,ATH,439
-439,30,9,Hunter Barco,PIT,440
-440,30,10,Cristian Javier,HOU,441
-441,30,11,Jordan Leasure,CWS,442
-442,30,12,Matt Brash,SEA,443
-443,30,13,Jake Meyers,HOU,444
-444,30,14,Drew Anderson,DET,445
-445,30,15,Luke Weaver,NYM,446
+435,30,1,Ryan McMahon,NYY,436
+436,30,2,Landen Roupp,SF,437
+437,30,3,Tanner Scott,LAD,438
+438,30,4,Luis Severino,ATH,439
+439,30,5,Hunter Barco,PIT,440
+440,30,6,Cristian Javier,HOU,441
+441,30,7,Jordan Leasure,CWS,442
+442,30,8,Matt Brash,SEA,443
+443,30,9,Jake Meyers,HOU,444
+444,30,10,Drew Anderson,DET,445
+445,30,11,Luke Weaver,NYM,446
+446,30,12,Jake Cronenworth,SD,447
+447,30,13,Garrett Mitchell,MLW,448
+448,30,14,Brandon Sproat,MLW,449
+449,30,15,Colt Emerson,SEA,450
 0,1,1,Bobby Witt Jr.,KC,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Shohei Ohtani,LAD,3
