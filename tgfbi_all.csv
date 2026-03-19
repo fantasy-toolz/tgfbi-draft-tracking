@@ -4034,8 +4034,16 @@
 432,29,13,Eduardo Rodriguez,ARZ,433
 433,29,14,Payton Tolle,BOS,434
 434,29,15,Brady House,WAS,435
-435,30,14,Trevor Larnach,MIN,436
-436,30,15,Camilo Doval,NYY,437
+435,30,6,Trevor Larnach,MIN,436
+436,30,7,Camilo Doval,NYY,437
+437,30,8,Didier Fuentes,ATL,438
+438,30,9,Landen Roupp,SF,439
+439,30,10,Max Muncy,ATH,440
+440,30,11,Bryce Eldridge,SF,441
+441,30,12,David Hamilton,MLW,442
+442,30,13,Miguel Andujar,SD,443
+443,30,14,Lars Nootbaar,STL,444
+444,30,15,Corbin Burnes,ARZ,445
 0,1,1,Shohei Ohtani,LAD,1
 1,1,2,Aaron Judge,NYY,2
 2,1,3,Bobby Witt Jr.,KC,3
@@ -4921,13 +4929,19 @@
 432,29,13,Randy Vasquez,SD,433
 433,29,14,Ryan Weiss,HOU,434
 434,29,15,Foster Griffin,WAS,435
-435,30,9,Michael Soroka,ARZ,436
-436,30,10,Parker Meadows,DET,437
-437,30,11,Jake Cronenworth,SD,438
-438,30,12,Jordan Leasure,CWS,439
-439,30,13,Payton Tolle,BOS,440
-440,30,14,Miguel Amaya,CHC,441
-441,30,15,Anthony Kay,CWS,442
+435,30,3,Michael Soroka,ARZ,436
+436,30,4,Parker Meadows,DET,437
+437,30,5,Jake Cronenworth,SD,438
+438,30,6,Jordan Leasure,CWS,439
+439,30,7,Payton Tolle,BOS,440
+440,30,8,Miguel Amaya,CHC,441
+441,30,9,Anthony Kay,CWS,442
+442,30,10,Zack Littell,WAS,443
+443,30,11,Didier Fuentes,ATL,444
+444,30,12,Nick Martinez,TB,445
+445,30,13,Michael McGreevy,STL,446
+446,30,14,Drew Pomeranz,LAA,447
+447,30,15,Camilo Doval,NYY,448
 0,1,1,Bobby Witt Jr.,KC,1
 1,1,2,Shohei Ohtani,LAD,2
 2,1,3,Aaron Judge,NYY,3
